@@ -17,4 +17,4 @@ This is the matrix work with the flag
 ![image7](./classCoord/img7.jpeg)
 
 ### ClassBox
-![image8](./classCoord/img8.jpeg)
+![image8](./classBox/img8.jpeg)

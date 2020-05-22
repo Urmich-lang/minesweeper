@@ -30,3 +30,13 @@ This is the matrix work with the flag
 
 ###ClassGameState
 ![image14](./classGameState/img14.jpeg)
+
+### ClassMineSweeper
+![image15](./classMineSweeper/img15.jpeg)
+![image16](./classMineSweeper/img16.jpeg)
+![image17](./classMineSweeper/img17.jpeg)
+![image18](./classMineSweeper/img18.jpeg)
+![image19](./classMineSweeper/img19.jpeg)
+![image20](./classMineSweeper/img20.jpeg)
+![image21](./classMineSweeper/img21.jpeg)
+![image22](./classMineSweeper/img22.jpeg)

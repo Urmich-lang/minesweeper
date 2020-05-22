@@ -9,3 +9,5 @@ To help the player avoid getting into a mine, the location of the alleged mine c
 
 Class Flag
 This is the matrix work with the flag
+![image4](./classBomb/img4.jpg)
+![image5](./classBomb/img5.jpg)

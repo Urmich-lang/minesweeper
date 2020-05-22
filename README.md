@@ -40,3 +40,10 @@ This is the matrix work with the flag
 ![image20](./classMineSweeper/img20.jpeg)
 ![image21](./classMineSweeper/img21.jpeg)
 ![image22](./classMineSweeper/img22.jpeg)
+
+### ClassSimpleGUIandMain
+![image23](./classSimpleGUIandMain/img23.jpeg)
+![image24](./classSimpleGUIandMain/img24.jpeg)
+![image25](./classSimpleGUIandMain/img25.jpeg)
+![image26](./classSimpleGUIandMain/img26.jpeg)
+![image27](./classSimpleGUIandMain/img27.jpeg)

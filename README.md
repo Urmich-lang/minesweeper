@@ -47,3 +47,52 @@ This is the matrix work with the flag
 ![image25](./classSimpleGUIandMain/img25.jpeg)
 ![image26](./classSimpleGUIandMain/img26.jpeg)
 ![image27](./classSimpleGUIandMain/img27.jpeg)
+
+### Description for Clases
+
+#### 1) BOX ENUM   
+there are all the pictures in order to work with them in enum box an enumeration will be created in which all the pictures of the lower and upper layers with bombs are recorded. Also to enm box need object image which use for display images. Object considered public, to Object can anyone contact it because it was easy to set the value.
+We have Two functions getNumber and nextNumberBox
+GetNumber – is used to know which number there is.
+NextNumberBox – is used when bombs are used, the function also moves from one value to another
+
+#### 2) Class Coord 
+We use class Coord to store cell coordinates and work with all of these
+
+#### 3)  Class Game 
+in this class are everything we necessary 
+Matrix – bomb, flag, gamestate
+Сonstructor’s
+Void start - game launch method
+PressleftButton and  PressRightButton - method for pressing right and left
+GettotaoBombs - how many bombs
+Flags - how many flags
+
+#### 4) Class Matrix
+We use to store in Box.
+ In Matrix have top flags and bottom bombs 
+Also in Matrix I use constructor which fills the entire matrix in the specified field
+
+#### 5) Class Ranges 
+use to store field size
+Variable size safe the size
+Allcoords – use for to iterate over all elements
+Random – use in oder to generate random coordinate 
+Also use Set and Get
+GetAllCoords -  get the whole list of coordinates
+GetCoordAround - get coordinate around any cell
+GetRandomCoord – get random coordinates
+InRange - function determines which cell is in the field
+
+#### 6) Class Bomb
+This is the matrix work with the bomb
+
+#### 7) Class Flag
+This is the matrix work with the flag
+
+#### 8) Class GameState
+This is a class condition that the game can really show
+We have 3 type of conditions
+1)	PLAYED
+2)	BOMBED
+3)	WINNER

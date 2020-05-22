@@ -27,3 +27,6 @@ This is the matrix work with the flag
 ![image11](./classGame/img11.jpeg)
 ![image12](./classGame/img12.jpeg)
 ![image13](./classGame/img13.jpeg)
+
+###ClassGameState
+![image14](./classGameState/img14.jpeg)
